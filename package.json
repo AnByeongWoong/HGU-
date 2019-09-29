@@ -1,0 +1,47 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "expo": "^33.0.7",
+    "firebase": "^5.11.0",
+    "native-base": "^2.13.4",
+    "react": "16.8.3",
+    "react-dom": "^16.8.6",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-33.0.0.tar.gz",
+    "react-native-app-intro-slider": "^3.0.0",
+    "react-native-button-group": "^1.0.0",
+    "react-native-comments": "^1.1.5",
+    "react-native-elements": "^1.1.0",
+    "react-native-fs": "^2.14.1",
+    "react-native-material-dropdown": "^0.11.1",
+    "react-native-paper": "^2.16.0",
+    "react-native-phone-call": "^1.0.9",
+    "react-native-progressive-input": "^1.1.0",
+    "react-native-responsive-fontsize": "^0.2.1",
+    "react-native-search-bar": "^3.4.2",
+    "react-native-search-header": "^0.3.4",
+    "react-native-searchbar": "^1.16.0",
+    "react-native-star-rating": "^1.1.0",
+    "react-native-status-bar-height": "^2.3.1",
+    "react-native-tab-view": "^2.7.3",
+    "react-native-tags": "^2.1.0",
+    "react-native-vector-icons": "^6.6.0",
+    "react-native-web": "^0.11.4",
+    "react-navigation": "^3.11.0",
+    "react-tag-input": "^6.4.0",
+    "searchable-flatlist": "0.0.4",
+    "util": "^0.12.1",
+    "write-json-file": "^4.2.0"
+  },
+  "devDependencies": {
+    "@types/react-native": "^0.60.0",
+    "babel-preset-expo": "^5.1.1"
+  },
+  "private": true
+}
